@@ -1,0 +1,8 @@
+{
+  "name": "MyndSpace",
+  "description": "An immersive virtual study environment featuring subject-matching, ambient scenes, and an AI-powered tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
